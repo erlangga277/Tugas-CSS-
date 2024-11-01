@@ -1,0 +1,83 @@
+body {
+    background-color: #f5f5dd;
+}
+
+h1 {
+    color: rgb(239, 44, 203);
+    text-align: center;
+}
+
+#header{
+    background-color: aqua;
+    padding: 10px ;
+}
+ blockquote {
+    background-color: rgb(241, 7, 136);
+    border-left: 1px dotted black;
+    border-top: 1px dotted black;
+    text-align: center;
+    padding: 3px;
+ }
+
+
+.menu ul{
+    text-align: center;
+    
+ }
+
+.menu ul li {
+    list-style: none;
+    display: inline;
+    margin: 150px;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.gambar img {
+    width: 200px;
+    height: 200px;
+}
+
+.cin {
+    font-size: 40px;
+    color:blue;
+}
+
+.isi p {
+    line-height: 1;
+}
+
+.koleksi {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.koleksi img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;    
+}
+ .promo {
+    text-align: center;
+    justify-items: center;
+ }
+.promo h2 {
+    color: red;
+}
+
+.promo ol {
+    list-style: none;
+    display: flex;
+}
+
+.promo ol li {
+    margin: 0 10px;
+}
+
+.promo h3 {
+    width: fit-content;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
